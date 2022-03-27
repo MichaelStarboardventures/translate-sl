@@ -16,7 +16,7 @@ export default function Index() {
 
         <p className={styles.description}>
           <a href="https://cloud.tencent.com/product/ssr" target="_blank" rel="noopener noreferrer">
-            腾讯云 Serverless
+            aws Serverless
           </a>
           为您提供服务
         </p>
